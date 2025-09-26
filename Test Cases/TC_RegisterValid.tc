@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RegisterValid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3fbc0f4-7c8e-4190-a0b9-39d54303b584</testCaseGuid>
+</TestCaseEntity>
